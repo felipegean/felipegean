@@ -1,4 +1,4 @@
--olaa sou @felipegean
+ - olaa sou @felipegean
 - 👀 meu email é gean.alves@escola.pr.gov.br
 - 🌱 Eu estou interessado em aprender novas linguagens
 - 💞️ eu estou aprendendo a programar recentemente a linguagem de JavaScript e Scratch
